@@ -1,0 +1,4 @@
+services:
+  eslint: true
+  phpcsfixer: true
+  yamllint: true
